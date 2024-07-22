@@ -1,0 +1,21 @@
+text_based_game/
+│
+├── backend/
+│   ├── app.py
+│   ├── character.py
+│   ├── inventory.py
+│   ├── quest.py
+│   ├── game.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+│
+├── tests/
+│   ├── test_character.py
+│   ├── test_inventory.py
+│   ├── test_quest.py
+│   ├── test_game.py
+│
+└── README.md
